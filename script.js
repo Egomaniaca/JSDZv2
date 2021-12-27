@@ -21,4 +21,4 @@ const renderGoodsList = (list) => {
     document.querySelector('.goods-list').innerHTML = goodsList;
 }
 
-renderGoodsList(goods);
+renderGoodsList(goods); првормиащвмиызшиыв
