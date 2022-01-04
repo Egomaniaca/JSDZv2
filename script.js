@@ -46,7 +46,7 @@ const renderGoodsItem = (img = "https://klike.net/uploads/posts/2021-05/16224704
                 <lable for="big">Майонез</lable> 
             </div >           
         </div >
-        <div class =infowrp>
+        <div class ="infowrp">
             <h2 class ="info">Выбери булку и начинку</h2>
             <div class ="price">Стоимость  <span class= "infoPrice">0 </span> Руб.</div>
             <div class ="calorie">Калории  <span class= "infoCalore">0 </span></div>
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function handleChange() {
     const burgerElChecked = document.querySelectorAll('input[type=radio]:checked');
-    const fillingElChecked = document.querySelectorAll('input[type=checkbox]:checked');
+    const fillingElChecked = document.querySelectorAll('div.filling input[type=checkbox]:checked');
     const finishData = {
         price: 0,
         calorie: 0
