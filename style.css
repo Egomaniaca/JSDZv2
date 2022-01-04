@@ -1,0 +1,15 @@
+.cart-button{
+    margin: 25px;
+}
+
+.goods-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.goods-item{
+    display: block;
+    padding: 10px;
+    border: solid 1px black;
+}
+
