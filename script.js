@@ -99,38 +99,8 @@ function handleChange() {
     }
     infoCaloreEl.innerHTML = finishData.calorie
     infoPriceEl.innerHTML = finishData.price
-}
+};
 
 
-/*  if (burgerElChecked.length) {
-     const finishData = {
-         price: 0,
-         calorie: 0
-     }
-     allCheckBox.forEach(item => {
-         if (item.checked) {
-             finishData.price += Number(item.dataset.price)
-             finishData.calorie += Number(item.dataset.calorie)
-         }
-     });
-     infoBurger.innerHTML = "";
- } else {
-     infoBurger.innerHTML = "Выбери булку";
- } */
-
-
-
-
-/* находит активные чекбоксы  */
-
-
-// list.forEach(item => {
-//     goodsBlock.insertAdjacentHTML('beforeend', renderGoodsItem(item));
-// });
-// };
-
-// renderGoodsItem() {
-//     goodsBlock.insertAdjacentHTML('beforeend', renderGoodsItem(item));
-// };
 
 
