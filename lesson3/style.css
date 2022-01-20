@@ -10,5 +10,6 @@
 .goods-item{
     display: block;
     padding: 10px;
-    border: solid 1px black;
+    border: solid 1px rgb(201, 199, 199);
+    border-radius: 10px;
 }
