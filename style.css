@@ -1,0 +1,35 @@
+.cart-button{
+    margin: 25px;
+}
+
+.goods-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.goods-item {
+    display: block;
+    padding: 10px;
+    border: solid 1px black;
+}
+
+.desc{
+    text-align: center;
+}
+.infowrp{
+    text-align: center;
+}
+
+.info{
+    color: red;
+}
+
+.price{
+    margin: 20px 0 0 0;
+    font-size: 25px;
+}
+
+.calorie{
+    font-size: 25px;
+}
+
