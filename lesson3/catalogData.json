@@ -1,22 +1,22 @@
 [
     {
-        "id": 1,
-        "title": "Shirt",
+        "id_product": 1,
+        "product_name": "Shirt",
         "price": 150
     },
     {
-        "id": 2,
-        "title": "Socks",
+        "id_product": 2,
+        "product_name": "Socks",
         "price": 50
     },
     {
-        "id": 3,
-        "title": "Jacket",
+        "id_product": 3,
+        "product_name": "Jacket",
         "price": 350
     },
     {
-        "id": 4,
-        "title": "Shoes",
+        "id_product": 4,
+        "product_name": "Shoes",
         "price": 250
     }
 ]
